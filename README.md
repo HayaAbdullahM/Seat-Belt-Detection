@@ -3,6 +3,7 @@
 
 ![Seat Belt Detection](seat_belt_detection.png)
 
+
 This repository contains implementations of Seat Belt Detection using YOLOv5, YOLOv8, and YOLOv9. The project is part of an image processing course aimed at evaluating the performance of different YOLO versions on a consistent dataset and comparing their variations.
 
 ---
@@ -153,8 +154,6 @@ Each branch in this repository focuses on a specific YOLO version tailored for s
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-Feel free to modify and expand upon this README file according to your specific project requirements and findings.
-```
 
-This README design provides a structured and visually appealing format for presenting the project details, including descriptions of each branch and usage instructions.
+
+
