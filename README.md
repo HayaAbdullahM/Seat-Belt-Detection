@@ -1,7 +1,7 @@
 
 # Seat Belt Detection
 
-![Black Seat Belt logo](assets/Black Seat Belt logo.png)
+![Black Seat Belt logo](main/Black Seat Belt logo.png)
 
 
 
